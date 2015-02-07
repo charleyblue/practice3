@@ -1,0 +1,182 @@
+body {
+	background-image: url("fire.jpg");
+	background-repeat: repeat;	
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+article {
+	width: 66rem;
+	height: 54.5rem;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	/*background-color: #FFBA0D;*/
+
+}
+
+#upper-container {	
+	width: 66rem;
+	height: 38rem;
+	box-sizing: ;
+}
+
+#left {
+	float: left;
+	width: 14rem;
+	height: 41.25em;
+	background: #F2B544;
+	margin: auto;
+	padding-top:.25em;
+	padding-left: 1em;
+	text-align: center;	
+}
+
+#left h1 {
+	color: #FFFF00;
+	font-size: 1.25em;
+	line-height: 1.25;
+	font-weight: bold;
+	font-variant: small-caps;
+	padding-top: 1em;
+}
+
+
+section {
+	width: 34em;
+	height: 16em;
+	display: inline-block;
+}
+
+#right {
+	float: right;
+	width: 14rem;
+	height: 40.5em;
+	background-color: #F2B544;
+	margin: auto;
+	padding-top: 1em;	
+	position: relative;
+	/*right: -26em;*/
+	top: -45.65em;
+	text-align: center;
+}
+
+#right h1 {
+	color: #FFFF00;
+	font-size: 1.25em;
+	line-height: 1.25;
+	font-weight: bold;
+	font-variant: small-caps;
+	padding-top: 1em;
+
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+	/*margin-left: 15px;*/
+}
+
+h1 {
+	color: white;
+	/*padding-top: 15px;*/
+}
+
+figcaption {
+	text-align: center;
+	font-size: 1em;
+	padding-top: .75em;
+}
+
+header, footer {
+	background-color: #FF0000;
+	color: white;
+	/*padding-top: .5em;*/
+	padding: .75em;
+}
+
+header {
+	height: 7em;
+}
+
+footer {
+	height: 3em;
+	position: relative;
+	top: -45.6em;
+}
+
+.copy {
+	text-align: center;
+	line-height: 1.5;
+}
+
+address {
+	float: right;
+	font-size: 1.25em;
+	padding-right: 1em;
+	/*color: white;*/
+	position: relative;
+	top: -4.5em;
+	line-height: 1.25;
+}
+
+#logo {
+	float: left;
+	display: inline;
+}
+#heading {
+	text-align: center;
+	font-size: 1.5em;
+	position: relative;
+	left: -5em;
+	top: .1em;
+	line-height: 1.25;
+}
+
+.items {
+	line-height: 1.5;
+	padding-top: 1.5em;
+	padding-bottom: 1em;
+	font-family: Verdana;
+	font-weight: bold;
+	color: red;
+}
+
+.link {
+	padding-top: 2em;
+	list-style-type: none;
+}
+
+hr {
+	display: block;
+	margin: 0.25em 0.25em;
+	border-color: yellow;
+	border-style: double;
+	border-width: 0.10em; 
+}
+#top {
+	float: right;
+	position: relative;
+	top: -3rem;
+	left: -15.5em;
+}
+
+#bottom {
+	float: right;
+	position: relative;
+	top: 1rem;
+	left: -15.5em;
+}
+
+.box {
+	height:  230px;
+	width: 230px;
+	float: left;
+	margin: 15px;
+	padding: 2px;
+	background-color: #FF0000;
+	/*background: #A8D977;*/
+	border: 3px solid #FF0000;
+}
+
+.clear {
+	clear: both;
+}

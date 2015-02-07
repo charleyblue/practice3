@@ -1,0 +1,35 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   css/fire.jpg
+#	new file:   css/reset.css
+#	new file:   css/style.css
+#	new file:   googlece94a2176f5a0368.html
+#	new file:   images/IMG_0050.JPG
+#	new file:   images/IMG_0052.JPG
+#	new file:   images/IMG_0054.JPG
+#	new file:   images/Sweet-potato-pie.jpg
+#	new file:   images/beef.JPG
+#	new file:   images/boar.png
+#	new file:   images/fire.jpg
+#	new file:   images/grill.jpg
+#	new file:   images/longhorn.jpg
+#	new file:   images/pork.JPG
+#	new file:   images/steer.png
+#	new file:   images/texas-longhorn.png
+#	new file:   images/texlogo_2.png
+#	new file:   images/todaysmeat.JPG
+#	new file:   images/vegetables.jpg
+#	new file:   index.html
+#	new file:   j2okkcxz.vx3.txt
+#
+# Changes not staged for commit:
+#	modified:   css/style.css
+#	modified:   index.html
+#
+
